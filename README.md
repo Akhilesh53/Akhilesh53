@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Akhilesh Mahajan. 
-- 👀 I’m interested in Software Development , Know Basic of Web Devp.....WANT TO LEARN MORE ON WEB DEVELOPMENT.
-- 🌱 I’m currently learning Web Development and Data Analysis.
-- 💞️ I’m looking for oppotunities to learn more, grow more and develop more. 
+- 👋 Hi, I'm Akhilesh Mahajan, Software Engineer @ Airtel X Labs. 
+- 👀 On the way to be a Professional SDE.
+- 🌱 Interested in Backend Development and Data Analytic.
+- 💞️ Looking for oppotunities to learn more, grow more and develop more. 
 - 📫 Reach me at akhileshmahajan_2k18co040@dtu.ac.in
 
 <!---
